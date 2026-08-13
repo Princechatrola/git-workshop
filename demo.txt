@@ -1,1 +1,1 @@
-workshop topic : git 
+workshop topic : merging
